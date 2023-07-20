@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_bnr - prnts dec in binry
+ * print_bnr - prnts the binary dec
  * @arguments: input strng
- * @buf: buff pointr
+ * @buf: buff pointer
  * @ibuf: index for buff pointr
- * Return: num of chars printd.
+ * Return: num of chars print
  */
 int print_bnr(va_list arguments, char *buf, unsigned int ibuf)
 {

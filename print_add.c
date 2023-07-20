@@ -1,11 +1,10 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * print_add - prnts the addr of an input var
+ * print_add - gives the variable address
  * @arguments: input addr.
  * @buf: buff pointr.
  * @ibuf: index for buffr pointr
- *
  * Return: numb of chars printed.
  */
 int print_add(va_list arguments, char *buf, unsigned int ibuf)
